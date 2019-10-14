@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Note:**
 If you want to build your extension, run:
 
@@ -70,3 +71,7 @@ Added features X, Y, and Z.
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+=======
+# sample_ads_extension
+sample Azure DataStudio extension
+>>>>>>> 12e6b32c67276d7a5b345e19adb72d9c7e3deda8
