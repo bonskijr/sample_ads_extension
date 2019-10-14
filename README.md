@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 **Note:**
 If you want to build your extension, run:
 
